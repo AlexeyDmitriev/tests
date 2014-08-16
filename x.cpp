@@ -1,4 +1,4 @@
-class X{
+class YHolder{
 
 int y;
 };
