@@ -1,6 +1,6 @@
 class YHolder{
 
-int y;
+int renamed;
 };
 
 int main() {
